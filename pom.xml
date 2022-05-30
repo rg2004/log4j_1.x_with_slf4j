@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>log4j_1.x_with_slf4j</artifactId>
+    <artifactId>log4j_with_slf4j</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
